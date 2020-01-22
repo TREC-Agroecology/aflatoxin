@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1579706945142.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3115761801",
+    "id" : "4E5CEA62",
+    "lastKnownWriteTime" : 1579717984,
+    "last_content_update" : 1579717984757,
+    "path" : "C:/Users/i.geedicke/OneDrive - University of Florida/Work/UF_PostDoc/Projects/Aflatoxin/Project/Modelling Project/R_data_wrangling/AT_Shellman_Clean data.R",
+    "project_path" : "AT_Shellman_Clean data.R",
+    "properties" : {
+        "cursorPosition" : "48,0",
+        "scrollLine" : "22"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
